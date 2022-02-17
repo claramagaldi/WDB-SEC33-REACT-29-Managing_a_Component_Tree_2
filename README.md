@@ -1,2 +1,2 @@
-# Managing_a_Component_Tree_1
+# Managing_a_Component_Tree_2
 Created with CodeSandbox
